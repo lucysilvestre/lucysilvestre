@@ -1,4 +1,10 @@
 # 👋 Hi, I’m Luciana (Pilu) Silvestre  
+![Linux](https://img.shields.io/badge/Linux-Admin-blue?logo=linux&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-Server-blue?logo=windows&logoColor=white) 
+![VMware](https://img.shields.io/badge/VMware-Infrastructure-green?logo=vmware&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash&logoColor=white)
 
 💻 **IT Systems Administrator | Windows & VMware | Cloud Enthusiast (AWS)**  
 🎯 30+ years of experience in IT Infrastructure, focused on reliability, security, and automation.  
