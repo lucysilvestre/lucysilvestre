@@ -6,7 +6,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash&logoColor=white)
 
-💻 **IT Systems Administrator | Windows & VMware | Cloud Enthusiast (AWS)**  
+💻 **Infrastructure Engineer | Windows & VMware | Cloud Enthusiast (AWS)**  
 🎯 30+ years of experience in IT Infrastructure, focused on reliability, security, and automation.  
 🌎 Based in Calgary, Canada.  
 
